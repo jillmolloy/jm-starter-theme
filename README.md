@@ -1,6 +1,3 @@
-Quickstarter
-==================
-
 To get started you will need to have node, bower and grunt.js installed globally.
 
 Run the following commands in the terminal: 
